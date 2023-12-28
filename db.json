@@ -1,0 +1,78 @@
+{
+  "tasks": [
+    {
+      "id": 5317,
+      "name": "Basketball",
+      "tags": [
+        "Sports"
+      ],
+      "isActive": true,
+      "activityLog": [
+        {
+          "startTime": "2023-12-27T12:24:33.256Z",
+          "endTime": "2023-12-28T14:52:45.067Z"
+        }
+      ],
+      "lastStartTime": "2023-12-28T18:11:36.428Z",
+      "createdAt": "2023-12-27T12:24:19.072Z",
+      "updatedAt": "2023-12-27T12:24:19.072Z"
+    },
+    {
+      "id": 5609,
+      "name": "Tour",
+      "tags": [
+        "visit"
+      ],
+      "isActive": false,
+      "activityLog": [
+        {
+          "startTime": "2023-12-28T14:52:49.765Z",
+          "endTime": "2023-12-28T14:52:50.694Z"
+        }
+      ],
+      "lastStartTime": "2023-12-28T14:52:49.765Z",
+      "createdAt": "2023-12-27T12:24:47.745Z",
+      "updatedAt": "2023-12-27T12:24:47.745Z"
+    },
+    {
+      "id": 348,
+      "name": "Assigment",
+      "tags": [
+        "Study"
+      ],
+      "isActive": false,
+      "activityLog": [
+        {
+          "startTime": "2023-12-28T14:52:46.761Z",
+          "endTime": "2023-12-28T14:52:48.078Z"
+        }
+      ],
+      "lastStartTime": "2023-12-28T14:52:46.761Z",
+      "createdAt": "2023-12-27T13:11:13.734Z",
+      "updatedAt": "2023-12-27T13:11:13.734Z"
+    },
+    {
+      "id": 7355,
+      "name": "Project",
+      "tags": [
+        "web dev"
+      ],
+      "isActive": true,
+      "activityLog": [],
+      "lastStartTime": "2023-12-28T18:19:41.341Z",
+      "createdAt": "2023-12-28T18:19:38.674Z",
+      "updatedAt": "2023-12-28T18:19:38.674Z"
+    }
+  ],
+  "tags": [
+    "work",
+    "project",
+    "hobby",
+    "art",
+    "rest"
+  ],
+  "settings": {
+    "theme": "default",
+    "singleTaskMode": false
+  }
+}
